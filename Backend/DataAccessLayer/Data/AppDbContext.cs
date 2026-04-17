@@ -11,3 +11,4 @@ namespace DataAccessLayer.Data
         public DbSet<User> Users { get; set; } 
     }
 }
+
